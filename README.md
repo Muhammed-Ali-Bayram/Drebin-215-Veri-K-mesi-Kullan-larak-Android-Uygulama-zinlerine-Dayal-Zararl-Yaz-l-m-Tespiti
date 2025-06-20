@@ -1,1 +1,1 @@
-# Drebin-215-Veri-K-mesi-Kullan-larak-Android-Uygulama-zinlerine-Dayal-Zararl-Yaz-l-m-Tespiti
+# Drebin-215 Veri Kümesi Kullanalarak Android Uygulama izinlerine Dayalı Zararlı Yazalım Tespiti
